@@ -1,0 +1,14 @@
+C:\Users\zyrya\source\repos\Praktika\Praktika\bin\Debug\Praktika.exe.config
+C:\Users\zyrya\source\repos\Praktika\Praktika\bin\Debug\Praktika.exe
+C:\Users\zyrya\source\repos\Praktika\Praktika\bin\Debug\Praktika.pdb
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.Form1.resources
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.exe
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.pdb
+C:\Users\zyrya\source\repos\Praktika\Praktika\bin\Debug\Praktika.exe.manifest
+C:\Users\zyrya\source\repos\Praktika\Praktika\bin\Debug\Praktika.application
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.exe.manifest
+C:\Users\zyrya\source\repos\Praktika\Praktika\obj\Debug\Praktika.application
